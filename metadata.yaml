@@ -1,0 +1,29 @@
+_repo: The-Brighton-RoadThe-Classic-Highway-to-the-South_38611
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38611-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Harper, Charles G. (Charles George)
+    alias: Harper, C. G.
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '39133'
+    url: http://www.gutenberg.org/2009/agents/39133
+description: ''
+gutenberg_issued: '2012-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38611'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs'
+- !lcsh 'Brighton Road (London, England)'
+- !lcc 'DA'
+- !lcsh 'England -- Description and travel'
+title: 'The Brighton Road: The Classic Highway to the South'
+url: http://www.gutenberg.org/ebooks/38611
